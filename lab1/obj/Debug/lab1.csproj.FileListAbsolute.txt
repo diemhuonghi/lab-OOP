@@ -1,0 +1,7 @@
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\bin\Debug\lab1.exe.config
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\bin\Debug\lab1.exe
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\bin\Debug\lab1.pdb
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\obj\Debug\lab1.exe
+D:\DEV\lâp trinh hương đôi tượng OP\lab1\obj\Debug\lab1.pdb
