@@ -1,0 +1,7 @@
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\bin\Debug\LESSON3_lab3.2.exe.config
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\bin\Debug\LESSON3_lab3.2.exe
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\bin\Debug\LESSON3_lab3.2.pdb
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\obj\Debug\LESSON3_lab3.2.csproj.AssemblyReference.cache
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\obj\Debug\LESSON3_lab3.2.csproj.CoreCompileInputs.cache
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\obj\Debug\LESSON3_lab3.2.exe
+D:\DEV\NETCODE & C#\lab\LESSON3_lab3.2\obj\Debug\LESSON3_lab3.2.pdb

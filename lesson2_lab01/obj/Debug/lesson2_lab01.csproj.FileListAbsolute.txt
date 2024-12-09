@@ -1,0 +1,7 @@
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\bin\Debug\lesson2_lab01.exe.config
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\bin\Debug\lesson2_lab01.exe
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\bin\Debug\lesson2_lab01.pdb
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\obj\Debug\lesson2_lab01.csproj.AssemblyReference.cache
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\obj\Debug\lesson2_lab01.csproj.CoreCompileInputs.cache
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\obj\Debug\lesson2_lab01.exe
+D:\DEV\lâp trinh hương đôi tượng OP\lesson2_lab01\obj\Debug\lesson2_lab01.pdb
