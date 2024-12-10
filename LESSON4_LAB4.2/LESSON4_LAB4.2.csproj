@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EFCFB2D-4808-406B-AFFB-B46B7F3BC5E9}</ProjectGuid>
+    <ProjectGuid>{A1695CA1-F69A-4274-A7BC-FA008B019C60}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LESSON4_LAP4._1</RootNamespace>
-    <AssemblyName>LESSON4_LAP4.1</AssemblyName>
+    <RootNamespace>LESSON4_LAB4._2</RootNamespace>
+    <AssemblyName>LESSON4_LAB4.2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="CheckAccount.cs" />
+    <Compile Include="CongNhan.cs" />
+    <Compile Include="NhanVIen.cs" />
+    <Compile Include="NhanVienBanHang.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SavingAccount.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
